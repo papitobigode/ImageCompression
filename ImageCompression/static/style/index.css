@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #ffffff;
+}
+
+header {
+    display: flex;
+    justify-content: Center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Times New ROman', cursive !important; 
+    font-size: 40px !important;
+}
+
+h1 {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.make-center {
+    display: flex;
+    justify-content: center;
+    margin-left: 60px;
+}
+
+.input-size {
+    height: 20px;
+    margin-left: 5px;
+}
+
+.make-center-2 {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.compress {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.input-ratio {
+    width: 5%;
+    text-align: center;
+    height: 15px;
+    font-size: 14px;
+    border: 1px solid #C0C0C0;
+    border-radius: 6px;
+}
+
+.make-center-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.make-center-4 {
+    display: flex;
+    justify-content: center;
+    border: 4.5px solid #000000;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    background-color: #ffffff;
+    width: 450px;
+    height: 450px;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: 100%;
+    max-height: 400px;
+    display: inline-block;
+    border: 0px solid #777676;
+    border-radius: 10px;
+    margin-left: 3.5px;
+    margin-top: 24.5px;
+}
+
+.make-compress {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    border: 2px solid #a0a099;
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding: 5px 15px 5px 15px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+a:hover {
+    background-color: #7c7c7b;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.info {
+    font-size: 12px;
+}
+
+.no-margin-auto {
+    margin-top: 2px;
+}
+
+.make-center-5 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
